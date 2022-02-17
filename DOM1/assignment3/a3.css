@@ -1,0 +1,41 @@
+body{
+    background-color: lightgray;
+    margin:150px;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace
+}
+
+#para{
+    background-color: black;
+    color:rgb(201, 192, 192);
+    padding:50px;
+    border-radius: 20px;
+}
+
+#btn1{
+    background-color: lightgray;
+    color:rgb(121, 113, 113);
+    padding:20px;
+    border-radius: 10px;
+    font-family:
+}
+#btn2{
+    background-color: rgb(168, 168, 199);
+    color:rgb(226, 207, 207);
+    padding:20px;
+    border-radius: 10px;
+}
+#btn3{
+    background-color: pink;
+    color:rgb(245, 233, 233);
+    padding:20px;
+    border-radius: 10px;
+}
+#btn4{
+    background-color: orange;
+    color:rgb(230, 222, 222);
+    padding:20px;
+    border-radius: 10px;
+}

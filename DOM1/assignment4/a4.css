@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(91, 156, 185);
+    margin:100px;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#btn-in{
+    background-color: rgb(82, 69, 69);
+    color:rgb(121, 113, 113);
+    padding:10px;
+    border-radius: 30px;
+    
+}
+#btn-out{
+    background-color: rgb(255, 255, 255);
+    color:rgb(121, 113, 113);
+    padding:10px;
+    border-radius: 10px;
+    
+}
+
+#container{
+    background-color: rgb(44, 41, 41);
+    color:rgb(121, 113, 113);
+    padding:150px 10px;
+    border-radius: 20px;
+   
+}
+
+
+#btn-in-stop,#btn-in-ready,#btn-in-go{
+    background-color: whitesmoke;
+    color:rgb(121, 113, 113);
+    padding:30px;
+    border-radius: 50px;
+
+
+}
