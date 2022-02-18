@@ -1,0 +1,39 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+}
+body {
+    background-color:lightsteelblue;
+}
+h1 {
+    text-align: center;
+    color:rgb(27, 28, 31);
+}
+p {
+    font-size: 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    margin-top:40px;
+}
+input {
+    display: flex;
+    margin: 0 auto;
+}
+#calc {
+    background-color:rgb(99, 108, 117);
+    color:rgb(230, 210, 210);
+    display:flex;
+    margin:0 auto;
+    margin-top: 20px;
+    border-radius: 5px;
+    height:30px;
+    align-items: center;
+}
+#TotalBill {
+    color:rgb(43, 34, 34);
+}
+
+img{
+    width: 150px;
+}
