@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(16, 20, 4);
+}
+h1 {
+    text-align: center;
+    font-family:fantasy;
+    font-size: 40px;
+    color:rgb(41, 32, 32);
+}
+h2 {
+    margin-left:20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;;
+}
+h3 {
+    margin-top:40px;
+    margin-left:20px;
+    font-family:cursive;
+}
+
+ul li {
+    box-shadow: 4px 3px 8px 1px #1d8f36;
+    -webkit-box-shadow: 4px 3px 8px 1px #42a142;
+    width:70%;
+    list-style-type: none;
+    cursor: pointer;
+    position: relative;
+    padding: 10px 8px 10px 35px;
+    font-size: 18px;
+    transition: 0.2s;
+}
+
+ul li:hover{
+    background-color: rgb(10, 172, 32);
+}
+ul li{
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+    font-family:cursive;
+}
+#heading {
+    box-shadow: 4px 3px 8px 1px #969696;
+    -webkit-box-shadow: 4px 3px 8px 1px #a6b9ac;
+    margin: 50px auto;
+    width:70%;
+    background-color: rgb(174, 216, 57);
+    padding: 20px;
+}
+#myInput {
+    box-shadow: 4px 3px 8px 1px #2b2a2a;
+    -webkit-box-shadow: 4px 3px 8px 1px #17832e;
+    margin-left:20px;
+    width:75%;
+    padding:10px;
+    padding-right:0px;
+    font-size: 15px;
+    
+}
+.addBtn {  
+    box-shadow: 4px 3px 8px 1px #2b2a2a;
+    -webkit-box-shadow: 4px 3px 8px 1px #24853c;
+    text-align: center;
+    font-size: 14px;
+    padding:10px;
+    margin:0px;
+    width: 10%;
+    background-color: rgb(37, 34, 34);
+    cursor:pointer;
+    transition: 0.3s;
+    color:white;
+    font-family:cursive;
+}
+.addBtn:hover {
+    background-color: green;
+}
+.myTask {
+    display: flex;
+    flex-direction: row;
+}
+
+.close {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    padding: 12px 16px 12px 16px;
+  }
+  .close:hover {
+  background-color: #f44336;
+  color: white;
+}
