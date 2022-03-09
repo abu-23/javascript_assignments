@@ -1,0 +1,48 @@
+body{
+
+    margin : 0px 0px;
+    background-image: url('image.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+h1{
+    font-family:'Courier New', Courier, monospace;
+    letter-spacing: .2em;
+    text-align: center;
+    padding: 10px 10px;
+}
+input {
+    width:100%;
+    padding:5px;
+    font-size: 20px;
+    margin-right: 0px auto;
+}
+
+#display{
+    font-size: 20px;
+    padding: 30px 16px;
+    text-align: center;
+    color:rgb(36, 32, 32);
+    background-color: rgba(171, 171, 180, 0.5);
+
+ }
+
+ #desc{
+     color :black;
+     font-family :'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-size: 40px ;   
+    }
+
+ #temp,#humidity{
+     font-family: cursive;
+    font-style: ;
+    font
+ }
+
+ #submit{
+    font-family: cursive;
+ }
+ #submit:hover{
+     cursor: pointer;
+ }
